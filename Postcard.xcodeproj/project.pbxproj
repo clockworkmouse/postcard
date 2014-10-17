@@ -13,6 +13,8 @@
 		6DF531CD19F0D904008D2D3E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DF531CC19F0D904008D2D3E /* Images.xcassets */; };
 		6DF531D019F0D904008D2D3E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6DF531CE19F0D904008D2D3E /* LaunchScreen.xib */; };
 		6DF531DC19F0D904008D2D3E /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DF531DB19F0D904008D2D3E /* PostcardTests.swift */; };
+		6DF531EB19F0EAA4008D2D3E /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6DF531E919F0EAA4008D2D3E /* SagradaFamilia.jpeg */; };
+		6DF531EC19F0EAA4008D2D3E /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6DF531EA19F0EAA4008D2D3E /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		6DF531D519F0D904008D2D3E /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DF531DA19F0D904008D2D3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6DF531DB19F0D904008D2D3E /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		6DF531E919F0EAA4008D2D3E /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		6DF531EA19F0EAA4008D2D3E /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				6DF531C519F0D904008D2D3E /* AppDelegate.swift */,
 				6DF531C719F0D904008D2D3E /* ViewController.swift */,
 				6DF531C919F0D904008D2D3E /* Main.storyboard */,
+				6DF531E919F0EAA4008D2D3E /* SagradaFamilia.jpeg */,
+				6DF531EA19F0EAA4008D2D3E /* AlbertEinsteinStamp.jpg */,
 				6DF531CC19F0D904008D2D3E /* Images.xcassets */,
 				6DF531CE19F0D904008D2D3E /* LaunchScreen.xib */,
 				6DF531C319F0D904008D2D3E /* Supporting Files */,
@@ -194,7 +200,9 @@
 			files = (
 				6DF531CB19F0D904008D2D3E /* Main.storyboard in Resources */,
 				6DF531D019F0D904008D2D3E /* LaunchScreen.xib in Resources */,
+				6DF531EC19F0EAA4008D2D3E /* AlbertEinsteinStamp.jpg in Resources */,
 				6DF531CD19F0D904008D2D3E /* Images.xcassets in Resources */,
+				6DF531EB19F0EAA4008D2D3E /* SagradaFamilia.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
